@@ -94,5 +94,5 @@ interests = [
 
 +++
 
-I am a a Ph.D. Candidate at *Structural Monitoring, Diagnostics and Prognostics Lab (SMDP)* at the *University of Vermont (UVM)*, co-supervised by Dr. Eric. M. Hernandez and Dr. David V. Rosowsky. My research interests lie at the intersection of disaster resilience, structural engineering, control systems engineering and computer science. 
+I am a a Ph.D. Candidate at *Structural Monitoring, Diagnostics and Prognostics Lab (SMDP)* at the *University of Vermont (UVM)*, co-supervised by Prof. Eric Hernandez and Prof. David V. Rosowsky. My research interests lie at the intersection of Disaster resilience, Structural Engineering, Control Systems Engineering and Computer Science. 
 
