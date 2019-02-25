@@ -18,7 +18,7 @@ folder = "project"
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view = 3
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -41,12 +41,9 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Structural Health Monitoring"
+  tag = "Structural Health Monitoring"
 
-[[filter]]
-  name = "Other"
-  tag = "Demo"
 
 +++
 

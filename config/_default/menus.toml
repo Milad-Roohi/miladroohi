@@ -10,32 +10,34 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications_featured"
+  url = "#publications"
   weight = 2
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+    name = "CV"
+    url = "/Users/Milad/Sites/miladroohi/miladroohi/static/files/CV.pdf"
+    weight = 7
+
+#[[main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 6
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+

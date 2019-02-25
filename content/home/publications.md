@@ -4,7 +4,7 @@
 widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Recent Publications"
+title = "Journal Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ count = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 1
 
 # Filter by publication type.
 # -1: Any
@@ -29,12 +29,10 @@ view = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
